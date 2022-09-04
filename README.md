@@ -9,3 +9,5 @@ Struktura projekta:
   *.hpp => include
   *.exe => ./
   *.cpp => ./
+
+Program napraviti komandom "make"
