@@ -1,4 +1,5 @@
 # put cpp in working folder, put .hpp files in ./include/ folder, and make ./obj/ fodler
+# or run "make project" to automatically make all dirs and move all the files in them
 GXX = g++
 FLAGS = -Wall -Wextra -g -O1 -MP -MD $(INC)
 
